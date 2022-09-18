@@ -1,0 +1,15 @@
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.exe
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.deps.json
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.runtimeconfig.json
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\bin\Debug\net6.0\PalindromeChecker.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.csproj.AssemblyReference.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.AssemblyInfoInputs.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.AssemblyInfo.cs
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\refint\PalindromeChecker.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\PalindromeChecker.genruntimeconfig.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\Challenge01\PalindromeCheckerApp\PalindromeChecker\obj\Debug\net6.0\ref\PalindromeChecker.dll
