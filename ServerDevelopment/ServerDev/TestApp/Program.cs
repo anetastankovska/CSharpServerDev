@@ -26,25 +26,25 @@ var headers = "GET /aaa/?someparam=nope&someotherparam=true HTTP/1.1\r\nHost: lo
 
 var lines = headers.Split("\r\n");
 var headerLines = lines.Skip(1);
-foreach (var line in headerLines)
+//foreach (var line in headerLines)
+//{
+//    Console.WriteLine(line);
+//}
+
+var requestDict = new Dictionary<string, string>();
+foreach (var item in headerLines)
 {
-    Console.WriteLine(line);
+    Console.WriteLine(item);
+    if (string.IsNullOrEmpty(item))
+    {
+        continue;
+    }
+    var data = item.Split(": ");
+    var key = data[0].Trim();
+    var value = data[1].Trim();
+    requestDict.Add(key, value);
 }
 
-//var requestDict = new Dictionary<string, string>();
-//for (int i = 0; i < lines.Length; i++)
-//{
-//    if(i == 1 || i == 2)
-//    {
-//        continue;
-//    }
-//    var data = lines[i].Split(": ");
-
-//    var key = data[0].Trim();
-//    var value = data[1].Trim();
-
-//    requestDict.Add(key, value);
-//}
 
 //foreach (var item in requestDict)
 //{

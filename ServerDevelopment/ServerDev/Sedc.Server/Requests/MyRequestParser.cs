@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.ObjectModel;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace Sedc.Server.Requests
 {
@@ -13,27 +9,47 @@ namespace Sedc.Server.Requests
         {
             var lines = requeststr.Split("\r\n");
             var urlLine = lines[0];
-            var method = urlLine.Split(" ")[0];
-            var url = urlLine.Split(" ")[1];
+            var urlParts = urlLine.Split(" ");
+            var url = urlParts[1];
+            //var method = urlParts[0];
+            //var protocol = urlParts[2].Split("/")[0];
+            //var protocolVersion = urlLine.Split($" {protocol}/")[1];
+            //var path = url.Split("?")[0];
+            //var queryParams = url.Split("?")[1].Split("&");
 
             var remainingLines = lines.Skip(1);
 
-            var urlRegex = new Regex(@"^([A-Z]+)\s\/(.*)\sHTTP\/1.1$");
+            var urlRegex = new Regex(@"^([A-Z]+)\s\/(.*?)\?(.*?)\s([A-Z]+)\/([0-9]+\.*[0-9]*)");
             var urlMatch = urlRegex.Match(url);
+            var method = urlMatch.Groups[1].Value;
+            var path = urlMatch.Groups[2].Value;
+            var queryParams = urlMatch.Groups[3].Value;
+            var protocol = urlMatch.Groups[4].Value;
+            var protocolVersion = urlMatch.Groups[5].Value;
+            
+
+            var requestDict = new Dictionary<string, string>();
+            foreach (var item in remainingLines)
+            {
+                Console.WriteLine(item);
+                if (string.IsNullOrEmpty(item))
+                {
+                    continue;
+                }
+                var data = item.Split(": ");
+                var key = data[0].Trim();
+                var value = data[1].Trim();
+                requestDict.Add(key, value);
+            }
 
             var request = new Request
             {
                 Url = url,
-                Method = new Method(method)
+                Method = Method.FromName(method),
+                RawRequest = requeststr,
+                Headers = new ReadOnlyDictionary<string, string>(requestDict)
             };
-
-            var headersDictionary = new Dictionary<string, string>();
-            
-            foreach (var line in remainingLines)
-            {
-                
-            }
-
+            return request;
         }
     }
 }

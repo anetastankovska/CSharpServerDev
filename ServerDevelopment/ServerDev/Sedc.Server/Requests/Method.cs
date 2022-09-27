@@ -21,6 +21,22 @@ namespace Sedc.Server.Requests
         public static readonly Method Delete = new Method("DELETE");
         public static readonly Method Head = new Method("HEAD");
         public static readonly Method Options = new Method("OPTIONS");
+
+
+        public static Method FromName(string name)
+        {
+            switch (name)
+            {
+                case "GET": return Method.Get; 
+                case "POST": return Method.Post;
+                case "PUT": return Method.Put;
+                case "DELETE": return Method.Delete;
+                case "HEAD": return Method.Head;
+                case "OPTIONS": return Method.Options;
+                case "PATCH": return Method.Patch;
+                default: return null;
+            }
+        }
     }
 
 
