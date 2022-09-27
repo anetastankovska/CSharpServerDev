@@ -26,6 +26,7 @@ while (true)
 
     // get response
     var responseString = @$"HTTP/1.1 200 OK
+
 Hello from SEDC Server";
 
     // send response

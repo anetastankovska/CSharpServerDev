@@ -1,0 +1,12 @@
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\bin\Debug\net6.0\Sedc.Server.deps.json
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\bin\Debug\net6.0\Sedc.Server.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\bin\Debug\net6.0\Sedc.Server.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\obj\Debug\net6.0\Sedc.Server.csproj.AssemblyReference.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\obj\Debug\net6.0\Sedc.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\obj\Debug\net6.0\Sedc.Server.AssemblyInfoInputs.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\obj\Debug\net6.0\Sedc.Server.AssemblyInfo.cs
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\obj\Debug\net6.0\Sedc.Server.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\obj\Debug\net6.0\Sedc.Server.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\obj\Debug\net6.0\refint\Sedc.Server.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\obj\Debug\net6.0\Sedc.Server.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Sedc.Server\obj\Debug\net6.0\ref\Sedc.Server.dll

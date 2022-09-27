@@ -1,0 +1,15 @@
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\bin\Debug\net6.0\StringBuilderDemo.exe
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\bin\Debug\net6.0\StringBuilderDemo.deps.json
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\bin\Debug\net6.0\StringBuilderDemo.runtimeconfig.json
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\bin\Debug\net6.0\StringBuilderDemo.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\bin\Debug\net6.0\StringBuilderDemo.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\StringBuilderDemo.csproj.AssemblyReference.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\StringBuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\StringBuilderDemo.AssemblyInfoInputs.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\StringBuilderDemo.AssemblyInfo.cs
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\StringBuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\StringBuilderDemo.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\refint\StringBuilderDemo.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\StringBuilderDemo.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\StringBuilderDemo.genruntimeconfig.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\StringBuilderDemo\obj\Debug\net6.0\ref\StringBuilderDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\bin\Debug\net6.0\TestApp.exe
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\ref\TestApp.dll

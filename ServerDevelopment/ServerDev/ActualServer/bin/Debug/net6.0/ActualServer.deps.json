@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ActualServer/1.0.0": {
+        "dependencies": {
+          "Sedc.Server": "1.0.0"
+        },
+        "runtime": {
+          "ActualServer.dll": {}
+        }
+      },
+      "Sedc.Server/1.0.0": {
+        "runtime": {
+          "Sedc.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ActualServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sedc.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

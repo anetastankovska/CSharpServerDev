@@ -16,6 +16,11 @@ namespace Sedc.Server
             var byteCount = stream.Read(bytes);
             Console.WriteLine($"Read out {byteCount} bytes");
             var data = Encoding.UTF8.GetString(bytes);
+            
+            var request = new Requests.Request();
+            var lines = data.Split("\r\n");
+            var firstLine = lines[0];
+            var method = firstLine.Split(" ")[0];
             Console.WriteLine(data);
         }
 

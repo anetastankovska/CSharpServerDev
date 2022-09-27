@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Sedc.Server\Sedc.Server.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -37,7 +37,6 @@ namespace Sedc.Server
 
                 // process request
                 TcpSendReceive.ProcessRequest(client);
-
                 // send response
                 TcpSendReceive.SendResponse(client);
             }

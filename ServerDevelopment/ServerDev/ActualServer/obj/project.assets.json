@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Sedc.Server/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Sedc.Server.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sedc.Server.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Sedc.Server/1.0.0": {
+      "type": "project",
+      "path": "../Sedc.Server/Sedc.Server.csproj",
+      "msbuildProject": "../Sedc.Server/Sedc.Server.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Sedc.Server >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Aneta\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Sedc.Server\\Sedc.Server.csproj": {
+              "projectPath": "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Sedc.Server\\Sedc.Server.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
