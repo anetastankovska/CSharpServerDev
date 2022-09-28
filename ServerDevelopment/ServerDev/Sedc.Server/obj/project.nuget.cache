@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "amgCcEpYYVidNr+Zs3S0hvTbdUu5aHh3GZ6L7LFDCUGi9hUDmYLHg263EvUfsxKe5BPgVDWdgoqyDwALy7o4/A==",
+  "dgSpecHash": "v28MMtcaFOM3/N8IlNujzfVhTWmpYW0kgGDaVIZYHfy3zXJftsnE5zOLn0g3pskMMb6Dko8vB8YMW7pwDYsEeQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Sedc.Server\\Sedc.Server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Aneta\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
   "logs": []
 }

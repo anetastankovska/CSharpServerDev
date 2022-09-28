@@ -13,3 +13,7 @@ C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.pdb
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\bin\Debug\net6.0\Sedc.Server.dll
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\bin\Debug\net6.0\Sedc.Server.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\TestApp\obj\Debug\net6.0\TestApp.csproj.CopyComplete

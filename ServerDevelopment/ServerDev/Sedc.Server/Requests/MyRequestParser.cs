@@ -27,7 +27,6 @@ namespace Sedc.Server.Requests
             var protocol = urlMatch.Groups[4].Value;
             var protocolVersion = urlMatch.Groups[5].Value;
             
-
             var requestDict = new Dictionary<string, string>();
             foreach (var item in remainingLines)
             {
@@ -51,5 +50,31 @@ namespace Sedc.Server.Requests
             };
             return request;
         }
+
+        public static List<string> ParseUrl(string urlLine)
+        {
+            //var urlParts = urlLine.Split(" ");
+            //foreach (var item in urlParts)
+            //{
+            //    Console.WriteLine("Part: " + item);
+            //}
+            //var url = urlParts[1];
+
+            if(urlLine == null || urlLine == "")
+            {
+                return new List<string>(){ };
+            }
+            var urlRegex = new Regex(@"^([A-Z]+)\s\/(.*?)\?(.*?)\s([A-Z]+)\/([0-9]+\.*[0-9]*)");
+            var urlMatch = urlRegex.Match(urlLine);
+            var method = urlMatch.Groups[1].Value;
+            var path = urlMatch.Groups[2].Value;
+            var queryParams = urlMatch.Groups[3].Value;
+            var protocol = urlMatch.Groups[4].Value;
+            var protocolVersion = urlMatch.Groups[5].Value;
+
+            return new List<string> {method, path, queryParams, protocol, protocolVersion };
+
+        }
+
     }
 }

@@ -1,4 +1,6 @@
 ﻿
+using Sedc.Server.Requests;
+
 var firstLine = "GET /aaa/bbb/?paramone=none&paramtwo=true HTTP/1.1";
 var secondLine = "Host: localhost:668";
 var method = firstLine.Split(" ")[0];
@@ -45,12 +47,12 @@ foreach (var item in headerLines)
     requestDict.Add(key, value);
 }
 
-
-//foreach (var item in requestDict)
-//{
-//    Console.WriteLine(item.Key + ":" + item.Value);
-//}
-
+Console.WriteLine("=======================");
+var empty = "";
+List<string> resutList = MyRequestParser.ParseUrl(empty);
+Console.WriteLine(resutList);
+string actualResult = resutList.FirstOrDefault(x => x == "GET").ToString();
+Console.WriteLine(actualResult);
 
 
 
