@@ -3,6 +3,7 @@ C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\bin\Debug\net6.0\ActualServer.runtimeconfig.json
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\bin\Debug\net6.0\ActualServer.dll
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\bin\Debug\net6.0\ActualServer.pdb
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\bin\Debug\net6.0\Sedc.Server.dll
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\bin\Debug\net6.0\Sedc.Server.pdb
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\obj\Debug\net6.0\ActualServer.csproj.AssemblyReference.cache
@@ -16,4 +17,3 @@ C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\obj\Debug\net6.0\ActualServer.pdb
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\obj\Debug\net6.0\ActualServer.genruntimeconfig.cache
 C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\obj\Debug\net6.0\ref\ActualServer.dll
-C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\ActualServer\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll

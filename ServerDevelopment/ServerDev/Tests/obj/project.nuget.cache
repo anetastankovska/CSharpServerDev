@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/sh1eoTWtUfnQN5FmIPEZIVcUyuAZ/UDDyfaEhP04N4FZinrro11MGkyXZEJXdGgUiWSRM2sBO+X/2dWN7G8g==",
+  "dgSpecHash": "GnvJCHctQvjqPep5gVzMS/Be5hgYh7deP4Hh+huvSNw4wZBpj3Kr1x+CNZG9Qn288HCitHetJTiva4iaYCVSIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Tests\\MyTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aneta\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
     "C:\\Users\\Aneta\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

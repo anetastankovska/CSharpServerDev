@@ -1,0 +1,5 @@
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Tests\obj\Debug\net6.0\MyTests.csproj.AssemblyReference.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Tests\obj\Debug\net6.0\MyTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Tests\obj\Debug\net6.0\MyTests.AssemblyInfoInputs.cache
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Tests\obj\Debug\net6.0\MyTests.AssemblyInfo.cs
+C:\Users\Aneta\Desktop\SEDC\CSharpServerDevelopment\ServerDevelopment\ServerDev\Tests\obj\Debug\net6.0\MyTests.csproj.CoreCompileInputs.cache

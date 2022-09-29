@@ -6603,9 +6603,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Tests\\Tests.csproj",
-      "projectName": "Tests",
-      "projectPath": "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Tests\\MyTests.csproj",
+      "projectName": "MyTests",
+      "projectPath": "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Tests\\MyTests.csproj",
       "packagesPath": "C:\\Users\\Aneta\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Aneta\\Desktop\\SEDC\\CSharpServerDevelopment\\ServerDevelopment\\ServerDev\\Tests\\obj\\",
       "projectStyle": "PackageReference",
