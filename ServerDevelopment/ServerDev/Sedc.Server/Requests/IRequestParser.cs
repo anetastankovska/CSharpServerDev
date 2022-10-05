@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Sedc.Server.Requests
 {
-    internal interface IRequestParser
+    public interface IRequestParser
     {
+        IRequest TryParse(string requestData);
     }
+
+    public delegate IRequestParser IRequestParserFactory();
 }

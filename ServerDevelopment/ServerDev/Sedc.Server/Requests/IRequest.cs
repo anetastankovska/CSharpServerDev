@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sedc.Server.Requests
 {
-    internal interface IRequest
+    public interface IRequest
     {
 
     }

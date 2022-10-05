@@ -9,7 +9,7 @@ namespace Sedc.Server.Requests
     public record Method
     {
         public string Name { get; private set; }
-        internal Method(string method)
+        private Method(string method)
         {
             Name = method;
         }
@@ -22,23 +22,41 @@ namespace Sedc.Server.Requests
         public static readonly Method Head = new Method("HEAD");
         public static readonly Method Options = new Method("OPTIONS");
 
+        //private static Dictionary<string, Method> predefinedMethods = new Dictionary<string, Method>
+        //{
+        //    { "GET", Get },
+        //    { "POST", Post },
+        //    { "PUT", Put },
+        //    { "DELETE", Delete },
+        //    { "HEAD", Head },
+        //};
 
-        public static Method FromName(string name)
+        //public static Method GetMethod(string method)
+        //{
+        //    if (predefinedMethods.TryGetValue(method, out Method value))
+        //    {
+        //        return value;
+        //    }
+        //    return new Method(method.ToUpper());
+        //}
+
+        public static Method GetMethod(string method)
         {
-            switch (name)
+            var result = method.ToUpper() switch
             {
-                case "GET": return Method.Get; 
-                case "POST": return Method.Post;
-                case "PUT": return Method.Put;
-                case "DELETE": return Method.Delete;
-                case "HEAD": return Method.Head;
-                case "OPTIONS": return Method.Options;
-                case "PATCH": return Method.Patch;
-                default: return null;
-            }
+                "GET" => Get,
+                "POST" => Post,
+                "PUT" => Put,
+                "DELETE" => Delete,
+                "PATCH" => Patch,
+                "HEAD" => Head,
+                "OPTIONS" => Options,
+                _ => new Method(method.ToUpper())
+            };
+
+            return result;
         }
     }
-
 
     public record Operation
     {
