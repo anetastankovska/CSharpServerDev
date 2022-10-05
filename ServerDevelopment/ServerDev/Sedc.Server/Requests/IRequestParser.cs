@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Sedc.Server
+namespace Sedc.Server.Requests
 {
-    public record ServerOptions(int Port, bool DevMode);
+    internal interface IRequestParser
+    {
+    }
 }
